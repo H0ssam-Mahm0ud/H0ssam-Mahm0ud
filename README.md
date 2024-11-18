@@ -9,10 +9,16 @@ A passionate and enthusiast self-learner backend developer using Microsoft .net 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@hossam.eladham123@gmail.com)](mailto:mail@hossam.eladham123@gmail.com)
 
 ## ⚡ Skills:
-- Html                                                  - C# , OOP
-- CSS                                                   - LINQ
-- Javascript                                            - Asp.net Core MVC
-- Bootstrap                                             - Asp.net web api
-- Database                                              - MS SQL Server
-- Entity Framework                                      - SOLID Principles
-- Git                                                   - GitHub
+- Html
+- CSS
+- Javascript
+- Bootstrap
+- C# , OOP
+- Asp.net Core MVC
+- LINQ
+- Entity Framework
+- SOLID Principles
+- Asp.net web api
+- Database
+- MS SQL Server
+- Git - GitHub
