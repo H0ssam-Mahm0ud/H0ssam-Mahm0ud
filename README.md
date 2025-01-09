@@ -8,6 +8,7 @@ A highly motivated and passionate .NET Backend Developer with expertise in Micro
 - Html
 - CSS
 - Javascript
+- TypeScript
 - Bootstrap
 - C# , OOP
 - Asp.net Core MVC
