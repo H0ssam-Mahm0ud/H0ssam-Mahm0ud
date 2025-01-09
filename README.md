@@ -1,6 +1,6 @@
 I'm Hossam Mahmoud.
 
-A passionate and enthusiast self-learner backend developer using Microsoft .net technologies, Currently searching for an opportunity to enhance my skills and participate with a team in implementing tech solutions for different projects.
+A highly motivated and passionate .NET Backend Developer with expertise in Microsoft technologies. Skilled in building dynamic, responsive web applications with a strong focus on clean code, scalability, and adherence to industry best practices. Seeking opportunities to contribute to innovative projects while continuously expanding technical expertise.
 
 
 
