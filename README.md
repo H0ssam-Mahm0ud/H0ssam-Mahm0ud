@@ -16,6 +16,7 @@ A highly motivated and passionate .NET Backend Developer with expertise in Micro
 - Entity Framework
 - SOLID Principles
 - Asp.net web api
+- Angular
 - Database
 - MS SQL Server
 - Git - GitHub
